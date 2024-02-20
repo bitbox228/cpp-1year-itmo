@@ -1,0 +1,17 @@
+<root>
+<common>
+<name>Common config</name>
+<description>Some config</description>
+<version>1</version>
+</common>
+<servers>
+<first>
+<enabled>true</enabled>
+<ip>127.0.0.1</ip>
+</first>
+<second>
+<enabled>true</enabled>
+<ip>127.0.0.1</ip>
+</second>
+</servers>
+</root>

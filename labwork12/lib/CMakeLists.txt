@@ -1,0 +1,1 @@
+add_library(db tuple.h topostfix.h topostfix.cpp table.h table.cpp dbexcept.h database.h database.cpp)

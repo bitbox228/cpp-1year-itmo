@@ -1,0 +1,1 @@
+add_library(algorithms stl-algorithms.h stl-algorithms.cpp xrange.h xrange.cpp zip.h zip.cpp)
